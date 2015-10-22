@@ -89,7 +89,7 @@
 		<framework src="CoreLocation.framework" />
 		<framework src="AudioToolbox.framework" />
 		<framework src="libc++.dylib" />
-		<framework src="libstdc++.dylib" />
+		<framework src="libstdc++.6.dylib" />
 		<framework src="libsqlite3.0.dylib" />
 		<framework src="VideoToolbox.framework" />
 
